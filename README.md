@@ -1,1 +1,1 @@
-# spellchecker-frontent
+# spellchecker-frontend
